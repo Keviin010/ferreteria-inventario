@@ -125,7 +125,7 @@ El proyecto se encuentra en desarrollo activo. Las siguientes funcionalidades es
 
 # Agradecimientos
 
-Este proyecto se apoyó en el contenido educativo del canal TodoCode, cuyos tutoriales sobre Spring Boot y desarrollo backend en Java fueron de utilidad durante el proceso de aprendizaje y construcción de este sistema.
+Este proyecto se apoyó en el contenido educativo del canal #TodoCode, cuyos tutoriales sobre Spring Boot y desarrollo backend en Java fueron de utilidad durante el proceso de aprendizaje y construcción de este sistema.
 
 ## Licencia
 
