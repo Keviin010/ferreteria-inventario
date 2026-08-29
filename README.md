@@ -1,4 +1,4 @@
-#Ferretería El Tornillo — Sistema de Gestión de Inventario
+# Ferretería El Tornillo — Sistema de Gestión de Inventario
 
 Aplicación web full-stack para la gestión de inventario de una ferretería, desarrollada con Spring Boot, Thymeleaf y MySQL. El proyecto implementa una arquitectura en capas (controlador, servicio, repositorio) sobre el patrón MVC, e incluye tanto una interfaz web como una API REST para el mismo dominio de datos.
 
