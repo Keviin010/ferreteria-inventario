@@ -123,7 +123,7 @@ El proyecto se encuentra en desarrollo activo. Las siguientes funcionalidades es
 - Validación de datos de entrada con Bean Validation.
 - Paginación del listado de productos para conjuntos de datos más grandes.
 
-## Agradecimientos
+# Agradecimientos
 
 Este proyecto se apoyó en el contenido educativo del canal TodoCode, cuyos tutoriales sobre Spring Boot y desarrollo backend en Java fueron de utilidad durante el proceso de aprendizaje y construcción de este sistema.
 
